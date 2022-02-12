@@ -17,7 +17,7 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. -->
 # HTTP API with JWT
 
 Simple HTTP API SAM template with a non-authenticated endpoint and an authenticated endpoint using Amazon Cognito as the identity provider.
-
+###https://www.youtube.com/watch?v=klOScYEojzY&list=PLJo-rJlep0ED198FJnTzhIB5Aut_1vDAd
 ## Resources
 
 ### HttpApi
